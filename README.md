@@ -4,7 +4,7 @@
 This project aims to build and evaluate a Convolutional Neural Network (CNN) model to classify fashion items from the Fashion MNIST dataset. Fashion MNIST is a dataset consisting of 60,000 training images and 10,000 testing images of 10 different fashion item categories, each represented as a 28x28 grayscale image.
 
 ## Project Structure
-- **Notebook Filename:** cnn_fashion_mnist.ipynb
+- **Notebook Filename:** CNN_FashionMNIST.ipynb
 - **Data:** The Fashion MNIST dataset is loaded directly from the TensorFlow library.
 - **Model Architecture:** The CNN model architecture is defined using TensorFlow's Keras API, consisting of convolutional layers, max pooling layers, flatten layers, and dense layers.
 - **Training:** The model is trained on the training dataset using the Adam optimizer and categorical cross-entropy loss function.
